@@ -48,5 +48,5 @@ un medio conocido.
 
 ## Volver a la página principal
 
-Consulta también [Ciberseguridad: protege tu vida digital]({{ '/' | relative_url }}) para
+Consulta también [Ciberseguridad: protege tu vida digital](index.md) para
 repasar los principios y hábitos básicos.
