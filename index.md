@@ -1,9 +1,3 @@
----
-layout: page
-title: Ciberseguridad
-permalink: /
----
-
 # Ciberseguridad: protege tu vida digital
 
 La ciberseguridad reúne hábitos y herramientas que ayudan a proteger nuestros
