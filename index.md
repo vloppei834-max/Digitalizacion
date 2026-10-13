@@ -31,7 +31,7 @@ Una buena seguridad digital combina tres principios:
 
 ## Sigue leyendo
 
-En la [guía de amenazas y protección]({{ '/guia-ciberseguridad/' | relative_url }}) encontrarás
+En la [guía de amenazas y protección]({{ '/guia-ciberseguridad/' | ciberseguridad.md}}) encontrarás
 ejemplos de ataques frecuentes y qué hacer para reducir el riesgo.
 
 ## Más información
