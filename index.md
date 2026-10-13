@@ -4,7 +4,7 @@ La ciberseguridad reúne hábitos y herramientas que ayudan a proteger nuestros
 dispositivos, cuentas y datos frente a usos no autorizados. **No es solo cosa de
 expertos**: pequeñas decisiones cotidianas pueden reducir mucho el riesgo.
 
-![Ilustración de un escudo y un candado que representan la protección digital](assets/escudo-ciberseguridad.svg)
+<img src="https://github.com/user-attachments/assets/2cf14335-9eba-492e-9e4a-a7e034233cf0" alt="image" />
 
 ## ¿Por qué es importante?
 
@@ -31,7 +31,7 @@ Una buena seguridad digital combina tres principios:
 
 ## Sigue leyendo
 
-En la [guía de amenazas y protección]({{ '/guia-ciberseguridad/' | ciberseguridad.md}}) encontrarás
+En la [guía de amenazas y protección](ciberseguridad.md) encontrarás
 ejemplos de ataques frecuentes y qué hacer para reducir el riesgo.
 
 ## Más información
